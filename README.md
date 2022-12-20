@@ -1,5 +1,6 @@
 ﻿# RPG-RAH-RAH
-RPG-RAH-RAH
+RPG-RAH-RAH - ReadMe file of unit testing.
+
 Char package test suite.
 This test suite verifies the functionality of the Char package, which contains classes for different types of characters in a role-playing game (RPG). It includes tests to ensure that the character classes and their associated methods are working correctly.
 
@@ -15,16 +16,26 @@ Skill and ability usage: This includes tests to ensure that the character can us
 
 Requirements This test suite requires the following classes to be present in the same package:
 
-RPG.Char.Mage
+RPG.Char.Mage 
+
 RPG.Char.Ranger
+
 RPG.Char.Rogue
+
 RPG.Char.Warrior
+
 RPG.Exceptions.InvalidArmorException
+
 RPG.Exceptions.InvalidWeaponException
+
 RPG.Item.Armor
+
 RPG.Item.Item
+
 RPG.Item.Slot
+
 RPG.Item.Weapon
+
 Running the tests.
 To run the tests, use a testing framework such as JUnit. The test suite contains a number of test methods that can be run individually or as a group.
 
